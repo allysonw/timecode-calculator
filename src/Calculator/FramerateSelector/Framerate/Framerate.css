@@ -1,0 +1,7 @@
+.framerate {
+  width: 25px;
+  height: 25px;
+  font-size: 2rem;
+  border: 2px solid red;
+  margin: 5px;
+}
